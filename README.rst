@@ -13,14 +13,6 @@ languages I studying.
 ~~~~~~~~~~~~~~~~~~~~~
 Kotlin, lua, C#, TypeScript
 
-Hate language
-~~~~~~~~~~~~~
-
-JavaScript
-----------
-.. image:: https://res.cloudinary.com/practicaldev/image/fetch/s--ZDtqrBOj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/damiancipolat/js_vs_memes/blob/master/doc/js_thanks.png%3Fraw%3Dtrue
-
-
 IDEL
 ----
 
