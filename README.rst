@@ -5,19 +5,15 @@ Languages
 ---------------
 .. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=hostagen
 
-languages mostly I use.
+languages I can use.
 ~~~~~~~~~~~~~~~~~~~~~~~
-Python 3, Rust, C, C++
-
-languages I studying.
-~~~~~~~~~~~~~~~~~~~~~
-Kotlin, lua, C#, TypeScript
+Python 3, Rust, C, C++, Node.js, TypeScript
 
 IDEL
 ----
 
 - Pycharm
-- Visual Studio 2019
+- Visual Studio 2022
 - Visual Studio Code
 
 .. image:: https://github-readme-stats.vercel.app/api?username=hostagen&show_icons=true&locale=kr
