@@ -1,10 +1,13 @@
-Languages
+Use Languages
 ---------------
 .. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=hostagen
 
-Use Languages.
-~~~~~~~~~~~~~~~~~~~~~~~
-Python 3, Rust, C, C++, Node.js, TypeScript
+- Python 3
+- Rust
+- C
+- C++
+- Node.js
+- TypeScript
 
 Use Editors
 ----
