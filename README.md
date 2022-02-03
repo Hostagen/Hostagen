@@ -54,7 +54,7 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width=64 heigh=64 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=64 heigh=64 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original-wordmark.svg" width=64 heigh=64 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width=64 heigh=64 />
   <p>
   
 </div>
