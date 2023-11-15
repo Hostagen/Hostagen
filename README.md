@@ -4,6 +4,6 @@
     <p><a href="https://toss.me/magxxolia">Donate 🔗</a></p>
   </div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hostagen&layout=donut-vertical" />
+    <img src="https://github-readme-stats-psi-eight-83.vercel.app/api/top-langs?username=hostagen&layout=donut-vertical" />
   </div>
 </div>
