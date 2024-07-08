@@ -1,9 +1,5 @@
-<div class="container">
-  <div align="center">
-    <p>Lazy,</p>
-    <p><a href="https://toss.me/magxxolia">Donate 🔗</a></p>
-  </div>
-  <div align="center">
-    <img src="https://github-readme-stats-psi-eight-83.vercel.app/api/top-langs?username=hostagen&layout=donut-vertical&langs_count=20" />
-  </div>
-</div>
+I'm a lazy programmer live in S. Korea.
+
+I hope to exhibit my portfolio with projects, but there is no work yet that can be shown to everyone.
+
+Anyway, welcome to my shabby profile.
